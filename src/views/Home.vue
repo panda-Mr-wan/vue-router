@@ -1,12 +1,12 @@
 <template>
     <div>
-        <h3>Component2组件</h3>
+        <h3>Home组件</h3>
     </div>
 </template>
 
 <script>
     export default {
-        name:"Component2"
+        name:"Home"
     }
 </script>
 

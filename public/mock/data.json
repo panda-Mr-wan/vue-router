@@ -1,0 +1,10 @@
+{
+    "status":"10001",
+    "msg":"success",
+    "data":[
+        {"bookId":"1001","bookName":"react精髓","author":"tom","bookPub":"人民邮电出版社","bookAddTime":"2021/1/2"},
+        {"bookId":"1002","bookName":"vue精髓","author":"jarry","bookPub":"电子工业出版社","bookAddTime":"2021/2/1"},
+        {"bookId":"1003","bookName":"antular精髓","author":"susan","bookPub":"机械工业邮电出版社","bookAddTime":"2021/1/3"},
+        {"bookId":"1004","bookName":"js精髓","author":"petter","bookPub":"机械工业邮电出版社","bookAddTime":"2021/1/6"}
+    ]
+}

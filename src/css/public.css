@@ -1,0 +1,8 @@
+ul{
+    width: 500px;
+    height: 200px;
+    border:1px solid #f00;
+}
+.loading{
+    background: url(./../assets/1.gif) no-repeat 50% 50%;
+}
